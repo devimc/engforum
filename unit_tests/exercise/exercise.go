@@ -1,6 +1,6 @@
 package main
 
-// go test -coverprofile
+// go test -coverprofile c.out
 // go tool cover -html=c.out -o c.html
 
 import (
